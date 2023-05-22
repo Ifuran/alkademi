@@ -1,0 +1,39 @@
+.container {
+	display: flex;
+	align-items: center;
+}
+
+#menu {
+	padding-left: 15px;
+}
+
+#menu li {
+	list-style: none;
+	float: left;	
+	margin: 0 20px;
+}
+
+#menu li a {
+	font-family: Verdana, Genevam, Tahoma, sans-serif;
+	font-size: 16px;
+	text-decoration: none;
+	font-weight: bold;
+}
+
+.sidebar {
+	width: 400px;
+}
+
+.content {
+	display: flex;
+}
+
+.blog-content {
+
+}
+
+.blog-content img {
+	
+	height: 180px;
+	object-fit: cover;
+}

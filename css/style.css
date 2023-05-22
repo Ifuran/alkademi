@@ -1,0 +1,25 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	background: green;
+}
+
+#table-siswa {
+	border-collapse: collapse;
+	background-image: url('https://c4.wallpaperflare.com/wallpaper/410/867/750/vector-forest-sunset-forest-sunset-forest-wallpaper-preview.jpg');
+	border: 1px solid #fff;
+	color: #fff;
+	margin: auto;
+}
+
+#table-siswa h3 {
+	font-size: 32px;
+}
+
+#table-siswa td{
+	padding: 15px;
+}
+
+.link {
+	color: red;
+	text-decoration: none;
+}
